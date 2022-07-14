@@ -1,0 +1,24 @@
+.conteiner {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    align-items: center;
+}
+
+.one {
+    height: 150px;
+    width: 300px;
+    background-color: blue;
+}
+
+.two {
+    height: 150px;
+    width: 300px;
+    background-color: red
+}
+
+.tree {
+    height: 150px;
+    width: 300px;
+    background-color: green;
+}
